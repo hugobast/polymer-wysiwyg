@@ -1,0 +1,11 @@
+.wysiwyg {
+  height: 400px;
+  width: 600px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.wysiwyg:focus {
+  border: 1px solid blue;
+  outline: none;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "wysiwyg",
+  "version": "0.0.1",
+  "main": "",
+  "dependencies": {
+    "platform": "Polymer/platform",
+    "polymer": "Polymer/polymer"
+  }
+}
